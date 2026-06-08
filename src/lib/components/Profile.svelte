@@ -20,6 +20,7 @@
         </h1>
 
         <p class="mt-4 max-w-2xl text-lg leading-8 text-ocean-mist">
+            Juneau, Alaska | odell.data@gmail.com
         </p>
     </div>
 </section>

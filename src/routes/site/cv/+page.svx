@@ -1,0 +1,8 @@
+<script>
+    import CV from '$lib/content/cv.md';
+</script>
+<div class="flex flex-col items-center text-center">
+    <section class="prose ocean-prose">
+        <CV />
+    </section>
+</div>

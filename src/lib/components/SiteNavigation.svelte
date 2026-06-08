@@ -1,8 +1,9 @@
 <script lang="ts">
     const navItems = [
-		{ label: 'About', href: '#about' },
-		{ label: 'Projects', href: '#projects' },
-		{ label: 'CV', href: '/cv.pdf' }
+        { label: 'Home', href: '/' },
+		// { label: 'News', href: '/site/news' },
+		// { label: 'Projects', href: '/site/projects' },
+		// { label: 'CV', href: '/site/cv' }
 	];
 </script>
 <nav class="mt-6 rounded-2xl border border-ocean-blue/20 bg-ocean-navy shadow-lg">

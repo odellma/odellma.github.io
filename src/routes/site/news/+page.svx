@@ -1,0 +1,7 @@
+<script >
+    import News from "$lib/content/news.md"
+</script>
+
+<section class="ocean-prose prose">
+	<News />
+</section>
