@@ -1,4 +1,5 @@
 <script lang="ts">
+	import '../app.css'
 	import './layout.css';
 	import logo from '$lib/assets/logo.svg'
 

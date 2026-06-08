@@ -5,12 +5,12 @@
 		{ label: 'CV', href: '/cv.pdf' }
 	];
 </script>
-<nav class="mt-6 rounded-2xl border border-white/10 bg-white/5 shadow-lg backdrop-blur">
+<nav class="mt-6 rounded-2xl border border-ocean-blue/20 bg-ocean-navy shadow-lg">
     <div class="flex justify-center gap-2 p-2">
         {#each navItems as item}
             <a
                 href={item.href}
-                class="rounded-xl px-5 py-3 text-sm font-medium text-slate-300 transition hover:bg-white/10 hover:text-white"
+                class="rounded-xl px-5 py-3 text-sm font-medium text-ocean-mist transition hover:bg-ocean-blue hover:text-white"
             >
                 {item.label}
             </a>
