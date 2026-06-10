@@ -1,8 +1,41 @@
-<script>
-    import CV from '$lib/content/cv.md';
+<script lang="ts">
+    import Header from '$lib/content/CV/header.md';
+    import Education from '$lib/content/CV/education.md';
+    import TechnicalSkills from '$lib/content/CV/technicalskills.md';
+    import Research from '$lib/content/CV/research.md';
+    import Programming from '$lib/content/CV/programming.md';
+    import Publications from '$lib/content/CV/publications.md';  
+	import ArticleLayout from '$lib/components/ArticleLayout.svelte';
+
+	const headings = [
+        {id: 'profile', text: 'Profile'},
+		{ id: 'education', text: 'Education' },
+		{ id: 'technical-skills', text: 'Technical Skills' },
+		{ id: 'research', text: 'Research' },
+		{ id: 'programming', text: 'Computational & Data Systems' },
+        { id: 'publications', text: 'Publications' }
+	];
 </script>
-<div class="flex flex-col items-center text-center">
-    <section class="prose ocean-prose max-w-none">
-        <CV />
-    </section>
+
+<div class="flex flex-col items-center text-center">    
 </div>
+<ArticleLayout {headings}>
+    <section class="prose ocean-prose max-w-none">
+        <Header />
+    </section>
+	<section id="eductation">
+        <Education />
+    </section>    
+    <section id="technical-skills">
+        <TechnicalSkills />
+    </section>    
+    <section id="research">
+        <Research />
+    </section>    
+    <section id="programming">
+        <Programming />
+    </section>
+    <section id="publications">
+        <Publications />
+    </section>
+</ArticleLayout>
