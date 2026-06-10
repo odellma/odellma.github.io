@@ -1,10 +1,5 @@
 <script lang="ts">
-    const navItems = [
-        {label: 'Home', href: '/'}
-		// { label: 'News', href: '/site/news' },
-		// { label: 'Projects', href: '/site/projects' },
-		// { label: 'CV', href: '/site/cv' }
-	];
+    import { navItems } from '$lib/data/NavItems';
 </script>
 <nav class="mt-6 rounded-2xl border border-ocean-blue/20 bg-ocean-navy shadow-lg">
     <div class="flex justify-center gap-2 p-2">

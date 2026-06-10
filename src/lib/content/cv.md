@@ -1,7 +1,6 @@
-# Matthew B. O'Dell
+# Matthew O'Dell
 
-Juneau, Alaska
-[odell.data@gmail.com](mailto:odell.data@gmail.com) | 509.279.9787
+Juneau, Alaska |[odell.data@gmail.com](mailto:odell.data@gmail.com)
 
 ---
 
@@ -10,19 +9,8 @@ Juneau, Alaska
 Fisheries and ecological researcher with experience spanning molecular biology, fisheries ecology, stable isotope ecology, Arctic field research, and quantitative analysis. Author of peer-reviewed publications in marine mammal ecology and fisheries-related research, with prior graduate research experience in biological sciences. Recent professional experience as a software developer supporting fisheries and data-intensive systems has strengthened interests in population genomics, conservation genomics, bioinformatics, eDNA, and the application of computational methods to fisheries science and natural resource management.
 
 ---
-
 # Research Interests
-
-* Population Genomics
-* Conservation Genomics
-* Fisheries Genetics
-* Molecular Ecology
-* eDNA
-* Bioinformatics
-* Salmonid Biology
-* Ecological Genomics
-* Population Structure and Connectivity
-* Genomic Applications in Fisheries Management
+Population Genomics | Conservation Genomics | Fisheries | Evolution Ecology | Physiological Ecology
 
 ---
 
@@ -221,24 +209,23 @@ Investigated gene-expression pathways involved in muscle and electric organ deve
 
 # Computational and Data Systems Experience
 
-## Software Developer
-
 Resource Data, Inc., Juneau, Alaska
 **2025 – Present**
 
 Develop software and data systems for state, federal, and private-sector clients. Responsibilities include application development, database design, workflow automation, requirements analysis, testing, and maintenance of production systems.
-
-## Software Developer
 
 National Marine Fisheries Service, Juneau, Alaska
 **2023 – 2025**
 
 Supported software development and modernization efforts for fisheries-related systems. Contributed to applications and data workflows supporting fisheries operations, permitting, data capture, and internal decision-support processes.
 
-## Full Stack Developer
-
 Resource Data, Inc., Juneau, Alaska
 **2019 – 2023**
+
+Developed web applications, APIs, data integration systems, and database-backed tools for public-sector and private-sector clients. Experience included software architecture, relational databases, automated testing, workflow automation, and large-scale data management.
+
+Alaska Department of Education and Early Development, Juneau, Alaska
+**2018 – 2019**
 
 Developed web applications, APIs, data integration systems, and database-backed tools for public-sector and private-sector clients. Experience included software architecture, relational databases, automated testing, workflow automation, and large-scale data management.
 
