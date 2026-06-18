@@ -21,7 +21,7 @@
     <section id="profile">
         <Profile />
     </section>
-	<section id="eductation">
+	<section id="education">
         <Education />
     </section>    
     <section id="technical-skills">
