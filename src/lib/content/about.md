@@ -8,6 +8,6 @@
 
 I'm a software developer, biologist, and science enthusiast, with a love for the ocean and all the things that live in it. I believe in supporting open source tools and contributing to the open science community.
 
-<div class="mt-8">
+<div class="mt-12">
     <Quote text={text} author={author} />
 </div>

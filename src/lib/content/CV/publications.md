@@ -8,7 +8,7 @@ Rogers, M.C., Peacock, E., Simac, K., O'Dell, M.B., and Welker, J.M. 2015. Diet 
 
 # Theses
 
-O'Dell, M.B. 2009. *Presence of Ca2+/Calmodulin Kinase Regulatory Pathway in Muscle and Electric Organ Tissues of the Weakly Electric Fish* *Sternopygus macrurus*. Undergraduate Honors Thesis, Department of Biology, New Mexico State University, Las Cruces, New Mexico.
+O'Dell, M.B. 2009. Presence of Ca2+/Calmodulin Kinase Regulatory Pathway in Muscle and Electric Organ Tissues of the Weakly Electric Fish *Sternopygus macrurus*. Undergraduate Honors Thesis, Department of Biology, New Mexico State University, Las Cruces, New Mexico.
 
 ---
 
