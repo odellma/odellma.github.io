@@ -1,5 +1,5 @@
 <script lang="ts">
-    import Header from '$lib/content/CV/header.md';
+    import Profile from '$lib/content/CV/profile.md';
     import Education from '$lib/content/CV/education.md';
     import TechnicalSkills from '$lib/content/CV/technicalskills.md';
     import Research from '$lib/content/CV/research.md';
@@ -17,11 +17,9 @@
 	];
 </script>
 
-<div class="flex flex-col items-center text-center">    
-</div>
 <ArticleLayout {headings}>
-    <section class="prose ocean-prose max-w-none">
-        <Header />
+    <section id="profile">
+        <Profile />
     </section>
 	<section id="eductation">
         <Education />

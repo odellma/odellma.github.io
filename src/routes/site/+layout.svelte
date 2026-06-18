@@ -5,7 +5,8 @@
 
 <SiteNavigation />
 <div class="page-shell">
-    <div class="page-container">
+    <!-- <div class="page-container">
         {@render children()}
-    </div>
+    </div> -->
+    {@render children()}
 </div>
