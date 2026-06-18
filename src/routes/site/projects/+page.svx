@@ -1,1 +1,8 @@
-# projects
+<script>
+    import Projects from '$lib/content/projects.md'
+    import ArticleLayout from '$lib/components/ArticleLayout.svelte'
+</script>
+
+<ArticleLayout>
+    <Projects />
+</ArticleLayout>
