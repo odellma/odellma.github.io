@@ -5,10 +5,10 @@
 ### NOAA Alaska Fisheries Science Center, Auke Bay Laboratories, Juneau, Alaska
 **July 2016 – June 2017**
 
-Contributed to multiple research projects investigating the population dynamics, habitat use, and energetics of marine mammals and fishes in Alaska. Responsibilities included laboratory analyses, field sampling, data quality assurance and control (QA/QC), statistical analysis, and interpretation of ecological datasets.
+Contributed to multiple research projects investigating population dynamics, habitat use, and energetics of marine mammals and fishes in Alaska. Responsibilities included laboratory analyses, field sampling, data quality assurance and control (QA/QC), statistical analysis, and interpretation of ecological datasets.
 
 * Assisted with Southeast Alaska humpback whale (*Megaptera novaeangliae*) population survey efforts.
-* Conducted habitat-use analyses of Dall’s porpoise (*Phocoenoides dalli*) in Prince William Sound.
+* Conducted habitat-use analyses of Dall’s porpoise (*Phocoenoides dalli*) populations in Prince William Sound.
 * Processed biological samples for bulk and compound-specific stable isotope analyses, bomb calorimetry, and energetics studies.
 * Participated in field studies estimating run timing and migration patterns of juvenile salmon (*Oncorhynchus* spp.) in the Yukon River.
 * Supported interdisciplinary research efforts integrating field observations, laboratory analyses, and quantitative ecological methods.
@@ -36,7 +36,7 @@ Participated in multiple research projects investigating the effects of environm
 * Applied stable isotope techniques to investigate nutrient cycling, trophic ecology, physiology, and wildlife diets.
 * Conducted laboratory analyses of biomarkers including plant waxes, lipids, proteins, and digestibility metrics.
 * Utilized R for statistical analysis, ecological modeling, Bayesian isotope mixing models, and population-level analyses.
-* Applied ArcGIS to develop spatial datasets, estimate animal home ranges, and construct resource selection models.
+* Utilized ArcGIS to develop spatial datasets, estimate animal home ranges, and construct resource selection models.
 * Developed environmental monitoring and snowpack models using long-term environmental logger datasets.
 * Collaborated on interdisciplinary research integrating field ecology, laboratory analyses, and quantitative modeling approaches.
 
@@ -60,7 +60,7 @@ Conducted field research examining carbon and nitrogen cycling in Arctic terrest
 
 * Monitored biogeochemical cycling using trace gas measurements, soil chemistry analyses, and stable isotope techniques.
 * Collected and processed vegetation, precipitation, river water, and plant-water samples for natural abundance and enriched isotope analyses.
-* Measured stream and river water-quality parameters and organic carbon dynamics.
+* Measured stream and river water-quality parameters and quantified organic carbon dynamics.
 * Coordinated field logistics and established remote laboratory facilities supporting isotope-based ecological research.
 
 ## Field Research Technician
