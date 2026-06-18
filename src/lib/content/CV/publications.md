@@ -1,14 +1,14 @@
 # Peer-Reviewed Publications
 
-Moran, J.R., O'Dell, M.B., Arimitsu, M.L., Straley, J.M., and Dickson, D.M. 2018. Seasonal distribution of Dall's porpoise (*Phocoenoides dalli*) in Prince William Sound, Alaska. *Deep-Sea Research Part II: Topical Studies in Oceanography* 147:164–172.
+Moran, J.R., O'Dell, M.B., Arimitsu, M.L., Straley, J.M., and Dickson, D.M. 2018. Seasonal distribution of Dall's porpoise (*Phocoenoides dalli*) in Prince William Sound, Alaska. *Deep-Sea Research Part II: Topical Studies in Oceanography* 147: 164–172.
 
-Rogers, M.C., Peacock, E., Simac, K., O'Dell, M.B., and Welker, J.M. 2015. Diet of female polar bears in the southern Beaufort Sea of Alaska: Evidence for an emerging alternative foraging strategy in response to environmental change. *Polar Biology* 38(7):1035–1047.
+Rogers, M.C., Peacock, E., Simac, K., O'Dell, M.B., and Welker, J.M. 2015. Diet of female polar bears in the southern Beaufort Sea of Alaska: Evidence for an emerging alternative foraging strategy in response to environmental change. *Polar Biology* 38(7): 1035–1047.
 
 ---
 
 # Theses
 
-O'Dell, M.B. 2009. *Presence of Ca2+/Calmodulin Kinase Regulatory Pathway in Muscle and Electric Organ Tissues of the Weakly Electric Fish Sternopygus macrurus*. Undergraduate Honors Thesis, Department of Biology, New Mexico State University, Las Cruces, New Mexico.
+O'Dell, M.B. 2009. *Presence of Ca2+/Calmodulin Kinase Regulatory Pathway in Muscle and Electric Organ Tissues of the Weakly Electric Fish* *Sternopygus macrurus*. Undergraduate Honors Thesis, Department of Biology, New Mexico State University, Las Cruces, New Mexico.
 
 ---
 
