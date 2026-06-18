@@ -1,3 +1,6 @@
 export function displayAsBulletList(items: string[]): string {
-    return items.filter((x) => x?.trim()).join(' · ');
+    return items
+        .map((x) => x?.trim())
+        .filter(Boolean)
+        .join(' · ');
 }
