@@ -2,47 +2,61 @@
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 200 200"
 >
+    <!-- Background -->
+    <circle
+        cx="100"
+        cy="100"
+        r="92"
+        fill="#F8FAFC"
+        stroke="#D6EAF8"
+        stroke-width="3"
+    />
+
     <!-- Beaker -->
-    <path
-        d="M60 20
-           H140
-           M75 20
-           V55
-           L45 155
-           A15 15 0 0 0 60 175
-           H140
-           A15 15 0 0 0 155 155
-           L125 55
-           V20"
-        fill="none"
-        stroke="#0B2545"
-        stroke-width="6"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-    />
+    <g transform="translate(15 15) scale(0.85)">
+        <path
+            d="M60 20
+               H140
+               M75 20
+               V55
+               L45 155
+               A15 15 0 0 0 60 175
+               H140
+               A15 15 0 0 0 155 155
+               L125 55
+               V20"
+            fill="none"
+            stroke="#0B2545"
+            stroke-width="6"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+        />
 
-    <!-- Wave -->
-    <path
-        d="M55 125
-           C65 80, 95 60, 125 65
-           C145 68, 152 90, 140 105
-           C134 112, 123 114, 115 108
-           C127 107, 132 98, 127 90
-           C121 81, 107 80, 96 90
-           C84 101, 85 122, 108 135
-           C88 133, 68 130, 55 125 Z"
-        fill="#0077B6"
-    />
+        <!-- Wave -->
+        <g transform="translate(16 38) scale(0.75)">
+            <path
+                d="M55 125
+                   C65 80, 95 60, 125 65
+                   C145 68, 152 90, 140 105
+                   C134 112, 123 114, 115 108
+                   C127 107, 132 98, 127 90
+                   C121 81, 107 80, 96 90
+                   C84 101, 85 122, 108 135
+                   C88 133, 68 130, 55 125 Z"
+                fill="#0077B6"
+            />
 
-    <!-- Foam highlight -->
-    <path
-        d="M70 104
-           C85 82, 108 74, 126 82
-           C120 78, 110 79, 101 86
-           C91 94, 89 106, 98 116"
-        fill="none"
-        stroke="#90E0EF"
-        stroke-width="5"
-        stroke-linecap="round"
-    />
+            <!-- Foam highlight -->
+            <path
+                d="M70 104
+                   C85 82, 108 74, 126 82
+                   C120 78, 110 79, 101 86
+                   C91 94, 89 106, 98 116"
+                fill="none"
+                stroke="#90E0EF"
+                stroke-width="5"
+                stroke-linecap="round"
+            />
+        </g>
+    </g>
 </svg>
