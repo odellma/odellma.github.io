@@ -15,6 +15,9 @@ New Mexico State University, Las Cruces, New Mexico
 
 # Honors and Fellowships
 
+**2024**
+NOAA Mid-Career Leadership Development Program
+
 **2012**
 Alaska EPSCoR Graduate Research Fellowship
 
